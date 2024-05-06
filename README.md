@@ -36,7 +36,7 @@ longer context windows and enhancing the model's positional understanding.
 To install the necessary dependencies, clone this repository and run:
 
 ```bash
-git  clone https://github.com/abdallah197/llama2-from-scratch.git
+git  clone https://github.com/viai957/llama-inference.git
 cd llama2-from-scratch
 pip install -r requirements.txt
 ```
